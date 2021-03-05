@@ -1,14 +1,16 @@
-ebook_metadata:
+id: P000072
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕྱག་ཆེན་ལྷན་ཅིག་སྐྱེས་སྦྱོར་དངོས་གཞིའི་ཁྲིད་ཡིག་ཅུང་ཟད་སྤྲོས་པ་སེམས་ཀྱི་རྡོ་རྗེའི་ངེས་གནས་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བ་ལེགས་པར་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: LEK-MA-DK-11
   layers:
   - book_title
   - author
   - chapter_title
   - quotation
+  id: LEK-MA-DK-11
 web_metadata:
   title:
     en: Clarifying the Definitive Vajra Mind:An Extensive Commentary on the Actual
